@@ -1,4 +1,4 @@
-# demos-os
+# demos-os-asm
 
 ## Operating system emulators
 * qemu
